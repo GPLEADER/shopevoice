@@ -1,0 +1,19 @@
+.sponsor {
+    padding: 41px 152px;
+    width: 100%;
+    text-align: center;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 30.05px;
+    color: #000;
+    margin-bottom: 36px;
+}
+.companies {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    justify-content: center;
+}
